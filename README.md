@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - 🔭 Android Software Engineer
 <div>
   <a href="https://github.com/adarsh-dhakad">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh-dhakad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh-dhakad&langs_count=10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dhakad&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dhakad&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
