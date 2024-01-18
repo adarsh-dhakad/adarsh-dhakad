@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   <img alt="Iara-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img alt="Iara-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Iara-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glorycs29&" alt="adarsh-dhakad" /></p>
 </div>
 
 
