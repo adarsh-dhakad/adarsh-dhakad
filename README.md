@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh-dhakad&langs_count=10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-dhakad&layout=compact&langs_count=10&theme=dracula"/>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glorycs29&" alt="adarsh-dhakad" /></p>
+</div>
 </div>
 
 <div style="display: inline_block"><br>
@@ -34,9 +36,6 @@ Here are some ideas to get you started:
   <img alt="Iara-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img alt="Iara-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Iara-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glorycs29&" alt="adarsh-dhakad" /></p>
-</div>
 
 
 ##
